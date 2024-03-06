@@ -22,7 +22,7 @@ if __name__=="__main__":
 
         ## Model Trainer
         model_trainer = ModelTrainer()
-        print(model_trainer.initaite_model_trainer(train_arr,test_arr))
+        print(model_trainer.initiate_model_trainer(train_arr,test_arr))
 
 
 
